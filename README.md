@@ -1,30 +1,32 @@
-TioMusic - Terms of Service
+### **TioMusic - Terms of Service**
 
-By using TioMusic, you agree to adhere to and be governed by the terms and conditions set forth in this document.
+Welcome to TioMusic, where your musical journey begins! By using our service, you agree to the following terms and conditions.
 
-User Agreement
-• Users must comply with Discord's Terms of Service. • TioMusic is for personal, non-commercial purposes only.
+### **User Agreement**
+• Embrace Discord’s Terms of Service as your guide. • TioMusic is crafted for personal enjoyment and should not be used for commercial purposes.
 
-Bot Access
-• TioMusic requires specific permissions to operate effectively; ensure these permissions are granted. • Unauthorized access or attempts to alter TioMusic’s settings are strictly prohibited.
+### **Bot Access**
+• Ensure TioMusic has the permissions it needs to deliver a seamless experience. • Tampering with TioMusic’s operations or unauthorized access is a strict no-no.
 
-Content Usage
-• Users are responsible for ensuring that the content played through TioMusic does not infringe on copyright, intellectual property rights, or violate community guidelines. • Any content found to be in violation may result in suspension or banning from using TioMusic.
+### **Content Usage**
+• You’re in control of the content played via TioMusic. • Steer clear of content that violates copyrights, intellectual property rights, or community standards.
 
-User Behavior
-• Users are expected to engage respectfully and courteously. • Any form of harassment, hate speech, or disruptive behavior will not be tolerated.
+### **User Conduct**
+• Engage with fellow users with respect and courtesy. • Any form of harassment, hate speech, or disruptive behavior is unacceptable.
 
-Bot Abuse
-• Intentional interference with TioMusic’s functionality or abuse of its features is strictly prohibited. • Report any bugs or issues through the designated support channel.
+### **Bot Integrity**
+• Any attempts to sabotage or misuse TioMusic’s features are prohibited. • Report bugs or issues responsibly through our designated support channels.
 
-Server Security
-• Ensure TioMusic is operated on a server with adequate security measures. • Keep bot tokens and credentials secure and confidential.
+### **Server Security**
+• Run TioMusic on a server with robust security measures. • Safeguard your bot tokens and credentials with the highest level of confidentiality.
 
-Updates and Maintenance
-• TioMusic may be updated periodically to improve functionality or address bugs. • Users may experience temporary service interruptions during maintenance; notifications will be provided when possible.
+### **Updates and Maintenance**
+• TioMusic will evolve with updates for better performance and bug fixes. • Expect occasional interruptions during maintenance; we’ll keep you informed.
 
-Data Privacy
-• While TioMusic does not collect personal data, users are responsible for their own content. • Consult Discord's Privacy Policy for details on data management.
+### **Data Privacy**
+• While TioMusic does not collect personal data, you’re responsible for your own content. • For details on data practices, consult Discord's Privacy Policy.
 
-Liability
-• TioMusic is provided "as is" without any warranties. • The developers are not liable for any damages or losses arising from the use or inability to use TioMusic.
+### **Liability**
+• TioMusic is provided "as is," without any warranties. • We’re not liable for any damages or issues arising from your use or inability to use TioMusic.
+
+Thank you for choosing TioMusic. Let the music play and enjoy the rhythm of your journey!
